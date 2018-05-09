@@ -1,5 +1,7 @@
 # DeepSnakes
 
+[snake emoji](SnakeMoji.png)
+
 In this project, we will use deep learning to classify snakes. We begin distinguishing between pythons (because... why not?) and rattlesnakes.
 
 Already available:
