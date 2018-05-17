@@ -9,10 +9,10 @@ Already available:
 1. Routine to download snake images from the web.
 2. Routine to resize and concatenate images on an numpy ndarray [n_images, width, height, channels].
 3. Logistic Regression classification of snakes analysis.
+4. Shallow neural networks analysis.
 
 Coming next:
 
-4. Shallow neural networks analysis.
 5. Convolutional neural networks analysis.
 
 In the future:
@@ -25,5 +25,3 @@ Warnings:
  - Contains pictures of snakes, viewer discretion is advised. 
  - Don't Bear Grills yourself into the wild to photograph snakes without adult supervision.
  - This is an educational demonstrative for fun project. There is no guarantee involved.
-
-We are open for hiring.
