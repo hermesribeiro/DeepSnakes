@@ -1,0 +1,182 @@
+Sample 0: alpha=3.05e-05, lambda= 72.7, 433 neurons
+Epoch 0: train cost = 0.7216285674039983, dev cost = 0.6678452925248579
+Epoch 50: train cost = 0.7628080960640238, dev cost = 0.7785065706111183
+Epoch 100: train cost = 0.7574417332479776, dev cost = 0.7783967325510073
+Epoch 150: train cost = 0.7552387709459982, dev cost = 0.7757952981743931
+Epoch 200: train cost = 0.7475678019287172, dev cost = 0.7671754064638753
+Epoch 250: train cost = 0.7336923076101571, dev cost = 0.7510058190211777
+Epoch 300: train cost = 0.7213569886920866, dev cost = 0.7363585164724302
+OF =  0.6618, with accuracy  0.5950 on epoch 1
+Sample 1: alpha=5.68e-06, lambda= 84.1, 227 neurons
+Epoch 0: train cost = 0.8288065717240011, dev cost = 0.6777145764059271
+Epoch 50: train cost = 0.7495631087910045, dev cost = 0.7665871864508006
+Epoch 100: train cost = 0.781391963732144, dev cost = 0.8042866099964489
+Epoch 150: train cost = 0.7859408722436132, dev cost = 0.8094696801556044
+Epoch 200: train cost = 0.7864206908655561, dev cost = 0.8102537423125968
+Epoch 250: train cost = 0.786234567480639, dev cost = 0.8100397409486376
+Epoch 300: train cost = 0.7857639528503103, dev cost = 0.8095058724899923
+OF =  0.6631, with accuracy  0.6198 on epoch 5
+Sample 2: alpha=3.93e-05, lambda= 96.4, 401 neurons
+Epoch 0: train cost = 0.7193110683732782, dev cost = 0.6644462396290677
+Epoch 50: train cost = 0.8061222431580882, dev cost = 0.8326042742768595
+Epoch 100: train cost = 0.7699119928947165, dev cost = 0.7924829908638946
+Epoch 150: train cost = 0.7423561934597236, dev cost = 0.7610389772525503
+Epoch 200: train cost = 0.7240786601689236, dev cost = 0.7395844893022017
+Epoch 250: train cost = 0.7121889901555274, dev cost = 0.72512111190922
+Epoch 300: train cost = 0.7045569025780544, dev cost = 0.7154204313420067
+OF =  0.6644, with accuracy  0.6281 on epoch 0
+Sample 3: alpha=1.43e-05, lambda= 79.3, 537 neurons
+Epoch 0: train cost = 0.7397165993028436, dev cost = 0.6616574752429301
+Epoch 50: train cost = 0.775625974432496, dev cost = 0.7952935084823735
+Epoch 100: train cost = 0.7743303120628862, dev cost = 0.7968311782710809
+Epoch 150: train cost = 0.7735205869044154, dev cost = 0.7959920079254907
+Epoch 200: train cost = 0.7718148347267435, dev cost = 0.7944643635395144
+Epoch 250: train cost = 0.7693993902403461, dev cost = 0.7917775556075671
+Epoch 300: train cost = 0.76518408252188, dev cost = 0.7871291105412255
+OF =  0.6566, with accuracy  0.6364 on epoch 1
+Sample 4: alpha=3.76e-05, lambda= 93.6, 57 neurons
+Epoch 0: train cost = 0.7058637656948783, dev cost = 0.6832548409454093
+Epoch 50: train cost = 0.8046386892145331, dev cost = 0.8305380955215328
+Epoch 100: train cost = 0.7737783942340819, dev cost = 0.7968635243817794
+Epoch 150: train cost = 0.7460375482385809, dev cost = 0.7653016649987087
+Epoch 200: train cost = 0.7271849998265258, dev cost = 0.7432912400931366
+Epoch 250: train cost = 0.7146511907912483, dev cost = 0.7281721130875517
+Epoch 300: train cost = 0.7064269598850534, dev cost = 0.7178474615428073
+OF =  0.6720, with accuracy  0.5455 on epoch 1
+Sample 5: alpha=7.02e-06, lambda= 70.5, 165 neurons
+Epoch 0: train cost = 0.7871302594700136, dev cost = 0.6768994291951834
+Epoch 50: train cost = 0.7384524734552241, dev cost = 0.7528363692858988
+Epoch 100: train cost = 0.753906421671229, dev cost = 0.772351288598431
+Epoch 150: train cost = 0.754761129617691, dev cost = 0.7732712296414966
+Epoch 200: train cost = 0.754476826791921, dev cost = 0.7732996664756586
+Epoch 250: train cost = 0.7545075465824979, dev cost = 0.7731823881795584
+Epoch 300: train cost = 0.7546538850985283, dev cost = 0.773183712289353
+OF =  0.6611, with accuracy  0.6198 on epoch 5
+Sample 6: alpha=4.66e-05, lambda=  2.2, 488 neurons
+Epoch 0: train cost = 0.730076968177291, dev cost = 0.7034273384031186
+Epoch 50: train cost = 0.38848642376828785, dev cost = 0.604722708709969
+Epoch 100: train cost = 0.39586973177992607, dev cost = 0.6006282459605824
+Epoch 150: train cost = 0.39975699092731004, dev cost = 0.60099905975594
+Epoch 200: train cost = 0.4031836359707777, dev cost = 0.616988189949477
+Epoch 250: train cost = 0.40546409859637583, dev cost = 0.6101516849738507
+Epoch 300: train cost = 0.4023955416334562, dev cost = 0.6061618899510912
+OF =  0.5949, with accuracy  0.7025 on epoch 37
+Sample 7: alpha=2.31e-05, lambda= 76.7, 503 neurons
+Epoch 0: train cost = 0.731500473150537, dev cost = 0.6663028937725981
+Epoch 50: train cost = 0.7714093307818263, dev cost = 0.7895109318504648
+Epoch 100: train cost = 0.7670270229174085, dev cost = 0.7890479347922585
+Epoch 150: train cost = 0.7651663609772674, dev cost = 0.7869716045285059
+Epoch 200: train cost = 0.7602646114412418, dev cost = 0.7817046740823541
+Epoch 250: train cost = 0.7505559307977188, dev cost = 0.7706015090311854
+Epoch 300: train cost = 0.7380817281313179, dev cost = 0.7561806923101756
+OF =  0.6603, with accuracy  0.6281 on epoch 1
+Sample 8: alpha=9.26e-06, lambda= 94.4, 96 neurons
+Epoch 0: train cost = 0.7202184062358762, dev cost = 0.6733749011331354
+Epoch 50: train cost = 0.7982142954325873, dev cost = 0.8225343562354727
+Epoch 100: train cost = 0.8099475968475184, dev cost = 0.8371520869988055
+Epoch 150: train cost = 0.8092673189383893, dev cost = 0.8365332233019112
+Epoch 200: train cost = 0.805202940278802, dev cost = 0.8321869905329933
+Epoch 250: train cost = 0.7991344315453994, dev cost = 0.8254876255003873
+Epoch 300: train cost = 0.7914916816329168, dev cost = 0.8170003339278796
+OF =  0.6686, with accuracy  0.5702 on epoch 5
+Sample 9: alpha=2.75e-05, lambda= 74.7, 437 neurons
+Epoch 0: train cost = 0.7229317571998628, dev cost = 0.6674520949686854
+Epoch 50: train cost = 0.7670707111516275, dev cost = 0.7839460136476627
+Epoch 100: train cost = 0.7620378589827167, dev cost = 0.7835468891238379
+Epoch 150: train cost = 0.759755690235737, dev cost = 0.7809247103604403
+Epoch 200: train cost = 0.7527745875937879, dev cost = 0.7731663727563275
+Epoch 250: train cost = 0.7397835345800258, dev cost = 0.7581365916354597
+Epoch 300: train cost = 0.7270233096662632, dev cost = 0.7431491820280217
+OF =  0.6615, with accuracy  0.6033 on epoch 1
+Sample 10: alpha=8.88e-06, lambda= 13.4, 147 neurons
+Epoch 0: train cost = 0.7564591257409616, dev cost = 0.6784918919082515
+Epoch 50: train cost = 0.5925389284437353, dev cost = 0.6339524954803719
+Epoch 100: train cost = 0.6297448139545346, dev cost = 0.6508669262090006
+Epoch 150: train cost = 0.655705077835351, dev cost = 0.6639632548182464
+Epoch 200: train cost = 0.6675551380992921, dev cost = 0.6710662211268401
+Epoch 250: train cost = 0.672796662927659, dev cost = 0.6737234572733729
+Epoch 300: train cost = 0.6752598541827242, dev cost = 0.6750111225222754
+OF =  0.6323, with accuracy  0.6694 on epoch 37
+Sample 11: alpha=2.81e-05, lambda= 53.6, 321 neurons
+Epoch 0: train cost = 0.7246280361798184, dev cost = 0.6706535402408316
+Epoch 50: train cost = 0.7268820212892264, dev cost = 0.7339131378930462
+Epoch 100: train cost = 0.7215357858780002, dev cost = 0.7357882665208548
+Epoch 150: train cost = 0.7228341816870634, dev cost = 0.7365408653070119
+Epoch 200: train cost = 0.7223539524827122, dev cost = 0.7369836854540612
+Epoch 250: train cost = 0.7226579920812086, dev cost = 0.7367780070659543
+Epoch 300: train cost = 0.7230755775428015, dev cost = 0.7370906230831934
+OF =  0.6573, with accuracy  0.6198 on epoch 1
+Sample 12: alpha=3.47e-05, lambda= 69.0, 124 neurons
+Epoch 0: train cost = 0.7162572320335168, dev cost = 0.681382171378648
+Epoch 50: train cost = 0.7553446805181582, dev cost = 0.7689133320958161
+Epoch 100: train cost = 0.7495792894816595, dev cost = 0.7695060919139011
+Epoch 150: train cost = 0.7480774287842522, dev cost = 0.767568288755811
+Epoch 200: train cost = 0.7409578849954054, dev cost = 0.7595252675458419
+Epoch 250: train cost = 0.727151584526724, dev cost = 0.7432670908525956
+Epoch 300: train cost = 0.7154677842766786, dev cost = 0.7291859398203447
+OF =  0.6654, with accuracy  0.5868 on epoch 1
+Sample 13: alpha=4.07e-05, lambda= 54.0, 433 neurons
+Epoch 0: train cost = 0.7208828330039978, dev cost = 0.6764893334759169
+Epoch 50: train cost = 0.7282615843390631, dev cost = 0.733782933763236
+Epoch 100: train cost = 0.7216562727266107, dev cost = 0.7370286421342329
+Epoch 150: train cost = 0.7233211371031675, dev cost = 0.7379304870101046
+Epoch 200: train cost = 0.7227598837584503, dev cost = 0.7380790395184982
+Epoch 250: train cost = 0.7217314846752104, dev cost = 0.7365624924336583
+Epoch 300: train cost = 0.7162363844469559, dev cost = 0.7300644551426911
+OF =  0.6583, with accuracy  0.6033 on epoch 1
+Sample 14: alpha=3.45e-05, lambda= 86.0, 106 neurons
+Epoch 0: train cost = 0.7126402455913133, dev cost = 0.675776773247837
+Epoch 50: train cost = 0.7920981155446738, dev cost = 0.8148002939775956
+Epoch 100: train cost = 0.7781158244806873, dev cost = 0.8019023926790095
+Epoch 150: train cost = 0.7542709139260378, dev cost = 0.7747742834170003
+Epoch 200: train cost = 0.7342194067545174, dev cost = 0.7515993985262784
+Epoch 250: train cost = 0.7203134818017976, dev cost = 0.7350829573702221
+Epoch 300: train cost = 0.7108154129390875, dev cost = 0.7234219007255617
+OF =  0.6693, with accuracy  0.5620 on epoch 1
+Sample 15: alpha=2.25e-05, lambda= 19.1, 270 neurons
+Epoch 0: train cost = 0.7332362175480394, dev cost = 0.6799591947192988
+Epoch 50: train cost = 0.6765504063160952, dev cost = 0.6761581168687048
+Epoch 100: train cost = 0.6819752518795739, dev cost = 0.6834386399954804
+Epoch 150: train cost = 0.6835068658856321, dev cost = 0.684088588746126
+Epoch 200: train cost = 0.6828797282266222, dev cost = 0.6845497572717588
+Epoch 250: train cost = 0.683087063722374, dev cost = 0.683675466490186
+Epoch 300: train cost = 0.6839517652988434, dev cost = 0.6836919863361958
+OF =  0.6375, with accuracy  0.6198 on epoch 6
+Sample 16: alpha=4.99e-05, lambda= 42.7, 537 neurons
+Epoch 0: train cost = 0.7242028784653372, dev cost = 0.6825121414562887
+Epoch 50: train cost = 0.7121491040572647, dev cost = 0.711575090392562
+Epoch 100: train cost = 0.7051265165825521, dev cost = 0.7174991576139592
+Epoch 150: train cost = 0.7079518821613848, dev cost = 0.7186740213189243
+Epoch 200: train cost = 0.7075011690786063, dev cost = 0.7195546804380811
+Epoch 250: train cost = 0.7083467035746771, dev cost = 0.7196147698016206
+Epoch 300: train cost = 0.7088496520006953, dev cost = 0.7201773273058174
+OF =  0.6515, with accuracy  0.6198 on epoch 1
+Sample 17: alpha=1.82e-05, lambda= 82.0, 324 neurons
+Epoch 0: train cost = 0.7353979210592498, dev cost = 0.6634819093814566
+Epoch 50: train cost = 0.7832670837394462, dev cost = 0.8040877413158575
+Epoch 100: train cost = 0.7801342532654439, dev cost = 0.8037854659655863
+Epoch 150: train cost = 0.7777040396347519, dev cost = 0.8011601345598205
+Epoch 200: train cost = 0.7726504455420596, dev cost = 0.795736013365186
+Epoch 250: train cost = 0.7638829414509545, dev cost = 0.7858381665442601
+Epoch 300: train cost = 0.7523039727171591, dev cost = 0.7726475739282025
+OF =  0.6604, with accuracy  0.6198 on epoch 1
+Sample 18: alpha=3.52e-05, lambda= 38.4, 122 neurons
+Epoch 0: train cost = 0.7185308531788756, dev cost = 0.6965760790612087
+Epoch 50: train cost = 0.7059881100969866, dev cost = 0.7061260633232179
+Epoch 100: train cost = 0.7004207843098759, dev cost = 0.7099084775309917
+Epoch 150: train cost = 0.702653373322211, dev cost = 0.7108455689485408
+Epoch 200: train cost = 0.701831011979048, dev cost = 0.7115494909365315
+Epoch 250: train cost = 0.7023591569139938, dev cost = 0.7109155576091167
+Epoch 300: train cost = 0.7038526081841839, dev cost = 0.7116757227369577
+OF =  0.6571, with accuracy  0.6198 on epoch 1
+Sample 19: alpha=6.43e-06, lambda= 96.2, 373 neurons
+Epoch 0: train cost = 0.7987158140244562, dev cost = 0.6680553846122804
+Epoch 50: train cost = 0.7825976666832758, dev cost = 0.8049473407839941
+Epoch 100: train cost = 0.8095232154712204, dev cost = 0.836523891480501
+Epoch 150: train cost = 0.8136920776248964, dev cost = 0.8413057563718686
+Epoch 200: train cost = 0.8129509315510427, dev cost = 0.8406682290321539
+Epoch 250: train cost = 0.8102629541858168, dev cost = 0.8377556919066373
+Epoch 300: train cost = 0.806242285681165, dev cost = 0.8333548553719008
+OF =  0.6601, with accuracy  0.5868 on epoch 5
+CPU times: user 1h 7min 24s, sys: 1h 9min 34s, total: 2h 16min 58s
+Wall time: 2h 5min 22s

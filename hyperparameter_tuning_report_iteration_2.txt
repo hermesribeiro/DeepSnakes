@@ -1,0 +1,40 @@
+Sample 0: alpha=7.95e-06, lambda=  1.6, 480 neurons
+OF =  0.6034, with accuracy  0.6942 on epoch 96
+Sample 1: alpha=8.48e-06, lambda=  3.0, 589 neurons
+OF =  0.6053, with accuracy  0.6860 on epoch 97
+Sample 2: alpha=2.25e-06, lambda=  3.2, 613 neurons
+OF =  0.6145, with accuracy  0.6446 on epoch 99
+Sample 3: alpha=1.50e-05, lambda=  3.5, 663 neurons
+OF =  0.6041, with accuracy  0.6860 on epoch 85
+Sample 4: alpha=4.27e-06, lambda=  0.1, 437 neurons
+OF =  0.6159, with accuracy  0.6694 on epoch 97
+Sample 5: alpha=1.24e-05, lambda=  3.3, 752 neurons
+OF =  0.6041, with accuracy  0.6860 on epoch 97
+Sample 6: alpha=3.51e-06, lambda=  0.6, 569 neurons
+OF =  0.6110, with accuracy  0.6529 on epoch 99
+Sample 7: alpha=1.93e-05, lambda=  0.9, 469 neurons
+OF =  0.5941, with accuracy  0.6942 on epoch 85
+Sample 8: alpha=1.61e-05, lambda=  0.5, 848 neurons
+OF =  0.5930, with accuracy  0.7107 on epoch 98
+Sample 9: alpha=6.73e-06, lambda=  2.7, 417 neurons
+OF =  0.6082, with accuracy  0.6777 on epoch 97
+Sample 10: alpha=3.94e-06, lambda=  2.3, 619 neurons
+OF =  0.6082, with accuracy  0.6529 on epoch 99
+Sample 11: alpha=4.03e-06, lambda=  4.4, 535 neurons
+OF =  0.6129, with accuracy  0.6777 on epoch 99
+Sample 12: alpha=1.96e-05, lambda=  0.4, 480 neurons
+OF =  0.5944, with accuracy  0.7025 on epoch 85
+Sample 13: alpha=1.79e-05, lambda=  4.0, 638 neurons
+OF =  0.6049, with accuracy  0.6942 on epoch 53
+Sample 14: alpha=1.90e-05, lambda=  2.0, 420 neurons
+OF =  0.5955, with accuracy  0.7107 on epoch 85
+Sample 15: alpha=1.13e-05, lambda=  0.0, 616 neurons
+OF =  0.5956, with accuracy  0.7025 on epoch 98
+Sample 16: alpha=1.79e-05, lambda=  1.5, 721 neurons
+OF =  0.5939, with accuracy  0.6942 on epoch 98
+Sample 17: alpha=8.92e-06, lambda=  3.5, 561 neurons
+OF =  0.6059, with accuracy  0.6942 on epoch 97
+Sample 18: alpha=7.86e-06, lambda=  2.2, 451 neurons
+OF =  0.6060, with accuracy  0.6777 on epoch 97
+Sample 19: alpha=1.52e-05, lambda=  2.1, 518 neurons
+OF =  0.5974, with accuracy  0.7107 on epoch 96
