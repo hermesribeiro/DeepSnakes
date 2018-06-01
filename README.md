@@ -10,10 +10,11 @@ Already available:
 2. Routine to resize and concatenate images on an numpy ndarray [n_images, width, height, channels].
 3. Logistic Regression classification of snakes analysis.
 4. Shallow neural networks analysis.
+5. Convolutional neural networks analysis.
 
 Coming next:
 
-5. Convolutional neural networks analysis.
+6. Latest Deep Learning architectures for computer vision
 
 In the future:
 

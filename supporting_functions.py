@@ -13,13 +13,13 @@ import h5py as h5
 def snake_data():
     #Load the snakes dataset
     # Extracting the train dataset from the h5 file.
-    f = h5.File("train_set.hdf5",'r')
+    f = h5.File("./dataset/train_set.hdf5",'r')
     # Storing the original data "permanently".
     images_train_orig = f["images_train"].value
     labels_train_orig = f["labels_train"].value
     f.close()
     # Extracting the dev dataset from the h5 file.
-    f = h5.File("dev_set.hdf5",'r')
+    f = h5.File("./dataset/dev_set.hdf5",'r')
     # Storing the original data "permanently".
     images_dev_orig = f["images_dev"].value
     labels_dev_orig = f["labels_dev"].value
